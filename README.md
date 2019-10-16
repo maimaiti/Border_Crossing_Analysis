@@ -1,7 +1,7 @@
 This is my solution for Insight data engineering coding challenge called [Border Crossing Analysis](https://github.com/InsightDataScience/border-crossing-analysis). 
 Please use python3.7 for running the script.
 
-### The approach is summarized as follow:
+### The approach is summarized as follows:
 * First, loading the csv file as a nested list which only contains Date, Measure, Border and Value. 
 * Then we calculate the sum of value using a unique dict key of Date, Border and Measure.
 * Next, lists called year_list and border_measure_list are prepared for calculating the rolling average.
