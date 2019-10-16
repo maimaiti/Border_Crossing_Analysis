@@ -1,4 +1,4 @@
-import sys  # only use python standard libraries
+import sys  # only use python standard library
 import csv
 from datetime import datetime
 from math import ceil
@@ -64,7 +64,6 @@ class BorderAnalytics:
                                     str(list(j)[0]).split(',')[2], list(j)[1], list(j)[2]])
         self.sorted_report = sorted(self.report, key=lambda y: (datetime.strptime(y[1], '%m/%d/%Y %I:%M:%S %p'),
                                                                 y[3], y[2], y[0]), reverse=True)
-        # sort the result based on Border, Date, Measure and Value
 
     def write_output(self, outfile):
         """writes the result in a CSV file"""
