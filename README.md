@@ -1,4 +1,4 @@
-This Python script border_analytics.py analyse the [border crossing entry data](https://github.com/InsightDataScience/border-crossing-analysis). 
+This is my solution for Insight data engineering coding challenge called [Border Crossing Analysis](https://github.com/InsightDataScience/border-crossing-analysis). 
 Please use python3.7 for running the script.
 
 ### The approach is summarized as follow:
