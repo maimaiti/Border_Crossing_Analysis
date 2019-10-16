@@ -8,7 +8,6 @@ class BorderAnalytics:
     """The class to analyse the border crossing data."""
 
     def __init__(self):
-        """"initiate several class attributes."""
         self.data = []      # list for loading the useful data from CSV
         self.crossing = {}  # dictionary with date,border,measure as a key and sum of the values as value
         self.year_list = []  # year list
