@@ -10,6 +10,6 @@ Please use python3.7 for running the script.
 
 The script passed in three different test cases.
 
--- Yasheng Maimaiti 
+Applicant: Yasheng Maimaiti 
 
 Email: yasheng@stanford.edu
