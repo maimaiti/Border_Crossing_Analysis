@@ -9,7 +9,3 @@ Please use python3.7 for running the script.
 * After sorting the results based on Border, Date, Measure and Value, the result is written to a csv file.  
 
 The script passed in three different test cases.
-
-Applicant: Yasheng Maimaiti 
-
-Email: yasheng@stanford.edu
